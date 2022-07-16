@@ -1,0 +1,15 @@
+.btn {
+  width: 100%;
+  padding: 0.8rem 0rem;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(255, 0, 234);
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+  position: absolute;
+  bottom: 0;
+}
+.btn:hover {
+  opacity: 1;
+}
